@@ -1,6 +1,6 @@
 <h2>About</h2>
 
-The Jupyter notebooks contained in this repo are my portfolio, more of less. They intend to demonstrate a number of my skills and capabilities as a data analyst and data scientist.
+The Jupyter notebooks contained in this repo are my portfolio, more or less. They intend to demonstrate a number of my skills and capabilities as a data analyst and data scientist.
 
 <h2>Contents</h2>
 
